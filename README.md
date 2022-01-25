@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">
-        InterRep.JS
+        InterRep.JS --> Harmony
     </h1>
     <p align="center">A monorepo of InterRep JavaScript libraries.</p>
 </p>
